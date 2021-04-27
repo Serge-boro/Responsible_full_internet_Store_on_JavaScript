@@ -1,2 +1,9 @@
-# Responsible_full_internet_Store_on_JavaScript
-Full Store on JS
+This project was creating with JS App.
+
+Available Scripts
+In the project directory, you can run:
+
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
+
+use launch through index.html
