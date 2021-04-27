@@ -6,4 +6,4 @@ In the project directory, you can run:
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
-use launch through index.html
+launch file through index.html
